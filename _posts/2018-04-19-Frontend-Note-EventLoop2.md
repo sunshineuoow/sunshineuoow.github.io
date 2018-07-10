@@ -141,7 +141,7 @@ setTimeout(function() {
 // something costs 10s
 ```
 
-正常期待是 1 秒后执行打印 timeout，但是由于主线程任务花费了 10 秒，所以实际打印会在 10 秒之后。
+正常期待是 1 秒后执行打印 timeout，但是由于主线程任务花费了 10 秒，所以实际打印会在 10 秒之后。
 
 因此`setInterval`会出现一个任务跳过的问题。
 
