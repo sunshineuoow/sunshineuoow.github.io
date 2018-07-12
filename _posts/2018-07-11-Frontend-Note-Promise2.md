@@ -1,15 +1,16 @@
 ---
 layout: post
-title: 前端学习笔记之Promise规范
-date: 2018-7-10 17:25:00 +0800
+title: 前端学习笔记之Promise实现
+date: 2018-7-11 17:25:00 +0800
 description: Frontend Note for Promise.
-img: promise.png
+img: promise.jpg
 tags: [Frontend, Note, Promise]
 ---
 
 # 自己实现一个 Promise
 
 [Promises/A+ 规范原文](https://promisesaplus.com/)
+
 [Promises/A+ 规范翻译](https://sunshineuoow.github.io/Frontend-Note-Promise/)
 
 ## 1. 初始化
