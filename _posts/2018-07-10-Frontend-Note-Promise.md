@@ -3,7 +3,7 @@ layout: post
 title: 前端学习笔记之Promise规范
 date: 2018-7-10 20:30:21 +0800
 description: Frontend Note for Promise.
-img: js.png
+img: promise.png
 tags: [Frontend, Note, Promise]
 ---
 
